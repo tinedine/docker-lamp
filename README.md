@@ -47,7 +47,7 @@ Watch the tutorial video to get started:
 
 2. Copy the environment file:
    ```bash
-   cp .env.example .env
+   cp .env.example .env (Edita el fichero y especifica tus contraseñas)
    ```
 
 3. Start the containers:
