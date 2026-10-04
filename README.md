@@ -41,7 +41,7 @@ Watch the tutorial video to get started:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jersonmartinez/docker-lamp.git
+   git clone https://github.com/tinedine/docker-lamp.git
    cd docker-lamp
    ```
 
