@@ -19,26 +19,8 @@ require_once 'includes/config.php';
                 Docker LAMP Stack
             </a>
             <ul class="navbar-nav ms-auto">
-                <li class="nav-item">
-                    <a href="https://github.com/jersonmartinez/docker-lamp" 
-                       class="nav-link social-link github-link" 
-                       target="_blank" 
-                       rel="noopener noreferrer"
-                       data-tooltip="View source code on GitHub">
-                        <i class="fab fa-github"></i>
-                        <span>GitHub</span>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a href="https://www.youtube.com/watch?v=v-r_12oezds" 
-                       class="nav-link social-link youtube-link" 
-                       target="_blank" 
-                       rel="noopener noreferrer"
-                       data-tooltip="Watch tutorial on YouTube">
-                        <i class="fab fa-youtube"></i>
-                        <span>YouTube</span>
-                    </a>
-                </li>
+                
+             
                 <li class="nav-item">
                     <div class="nav-link theme-toggle" onclick="toggleTheme()" title="Toggle theme">
                         <i class="fas fa-moon"></i>
