@@ -140,6 +140,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@jersonmartinez](https://github.com/jersonmartinez)
 - YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=v-r_12oezds)
 
+  ## 👨‍💻 Actualizado por
+  Diego Tinedo 
+
 ## ⭐ Support
 
 If you find this project helpful, please give it a star on GitHub and share it with others!
